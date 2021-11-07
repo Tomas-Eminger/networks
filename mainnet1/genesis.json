@@ -344,6 +344,8 @@
       "reward.staking.delegation.delegatorShare": "0.883",
       "reward.staking.delegation.minimumValidatorStake": "3000000000000000000000",
       "reward.staking.delegation.competitionLevel": "3.1",
+      "reward.staking.delegation.maxPayoutPerEpoch": "7000000000000000000000",
+      "reward.staking.delegation.minValidators": "5",
       "validators.epoch.length": "24h",
       "validators.delegation.minAmount": "100000000000000000",
       "validators.vote.required": "0.67",
